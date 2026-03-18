@@ -1,0 +1,4 @@
+Glassdoor Job Reviews: https://www.kaggle.com/datasets/davidgauthier/glassdoor-job-reviews/data
+
+Glassdoor Job Reviews 2 : https://www.kaggle.com/datasets/davidgauthier/glassdoor-job-reviews-2
+
